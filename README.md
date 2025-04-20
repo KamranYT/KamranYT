@@ -3,21 +3,27 @@
   Hey there 👋, I'm <span style="color:#F97316;">Kamran</span>
 </h1>
 <h3 align="center">
-  🚀 Frontend Developer | 🧠 Lifelong Learner | 🎯 UI/UX Enthusiast
+  <span style="color:#38BDF8;">🚀 Frontend Developer</span> | 
+  <span style="color:#A78BFA;">🧠 Lifelong Learner</span> | 
+  <span style="color:#FACC15;">🎯 UI/UX Enthusiast</span>
 </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Building+beautiful+UIs+with+React+%26+Tailwind;Exploring+Full-Stack+Web+Development;Creating+cool+Streamlit+apps;Lover+of+Clean+Code+%26+Design" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KamranYT&label=Profile+Views&color=F97316&style=flat-square" alt="Profile View Counter" />
+</p>
+
 ---
 
 ## 📌 About Me
 
-- 🌍 Based in **Pakistan**
-- 📚 Currently learning **Full Stack Web Development** (Next.js + MongoDB)
-- 💼 Passionate about building **responsive UIs**, **interactive web apps**, and **clean layouts**
-- 🔥 Obsessed with **TailwindCSS**, **Next.js**, and turning ideas into reality
+- 🌍 Based in <span style="color:#38BDF8;">**Pakistan**</span>
+- 📚 Currently learning <span style="color:#A3E635;">**Full Stack Web Development**</span> (Next.js + MongoDB)
+- 💼 Passionate about <span style="color:#FB7185;">**responsive UIs**</span>, <span style="color:#FACC15;">**interactive apps**</span>, and <span style="color:#60A5FA;">**clean layouts**</span>
+- 🔥 Obsessed with <span style="color:#34D399;">**TailwindCSS**</span> & <span style="color:#60A5FA;">**Next.js**</span>
 - 🧠 Always curious, always improving
 
 ---
@@ -75,10 +81,10 @@
 
 ## 📈 Currently Learning & Exploring
 
-- ⚙️ Full-Stack Development with **Next.js**
+- ⚙️ Full-Stack Development with <span style="color:#60A5FA;">**Next.js**</span>
 - 🧠 Clean Architecture & Reusable Components
-- 🌍 Deployments on **Vercel**, CI/CD
-- 💅 Advanced UI/UX animations using **Framer Motion**
+- 🌍 Deployments on <span style="color:#10B981;">**Vercel**</span>, CI/CD
+- 💅 Advanced UI/UX animations using <span style="color:#A78BFA;">**Framer Motion**</span>
 
 ---
 
@@ -91,4 +97,3 @@
 > *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
 ---
-
