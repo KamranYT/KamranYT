@@ -36,19 +36,6 @@
 
 ---
 
-## 🔥 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KamranYT&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KamranYT&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KamranYT&theme=tokyonight" />
-</p>
-
----
-
 ## 📂 Featured Projects
 
 | 💡 Project Name | 🔍 Description | ⚙️ Stack |
